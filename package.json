@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/tanickel1/HangManNodeGame/issues"
   },
-  "homepage": "https://github.com/tanickel1/HangManNodeGame#readme"
+  "homepage": "https://github.com/tanickel1/HangManNodeGame#readme",
+  "dependencies": {
+    "is-letter": "^1.1.1"
+  }
 }
